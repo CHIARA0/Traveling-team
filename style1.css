@@ -1,0 +1,19 @@
+.carousel-inner > .item > img,
+ .carousel-inner > .item > a > img {
+   min-height: 500px;
+   max-height: 500px;
+   margin: auto;
+   }
+  
+
+   .logo{
+     width:30px;
+     height: auto;
+     margin-top: 0px;
+     margin-left: -20px;
+
+   }
+
+   #title{
+     font-family: 'Gloria Hallelujah', cursive;
+   }
